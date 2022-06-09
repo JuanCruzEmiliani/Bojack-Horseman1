@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Bojack Horseman</title>
+    </head>
+<body>
+        <header>
+            <h1>Temporada 1, episodio 6:"Relacion turbulenta"</h1>
+                <p>Bojack y Mr.Peanutbutter aman demasiado a Diane y van a competir por ella. Quien haria mas locuras por la esritora?</p>
+	    </header>
+<head>
+ <link rel="stylesheet" type="text/css"
+ href="css/estilos.css"/>
+</head>
+<nav>
+     <ul>
+        <img src="img/1x/1x/1x/Recurso%204.png"> 
+         		<li><a href= "Secciones/galeria.html">galeria</a></li>  
+         		<li><a href= "Secciones/personajes.html" >personajes</a></li>  
+         		<li><a href= "Secciones/acerca%20de.html" >acerca de</a></li>  
+         		<li><a href= "Secciones/introvertido.html" >Introvertido</a></li>  
+        		<li><a href= "Secciones/extrovertido.html" >extrovertido</a></li>  
+     </ul>
+</nav>
+<section>
+    <article>
+		<div><img></div>
+		<div><img></div>
+    </article>
+</section>
+    <footer>
+	<p> Posteado por:<span>Juan Cruz Emiliani</span> </p>
+	<p> <time datetime="fecha"> </time> </p>
+</footer>
+</body>
+</html>

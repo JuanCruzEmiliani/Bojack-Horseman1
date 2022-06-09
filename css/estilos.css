@@ -1,0 +1,67 @@
+* {
+font-family: 'Gloria Hallelujah', cursive;    
+}
+
+header {
+ padding-left: 1%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: %;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#logo { 
+display: flex;
+justify-content: center;
+padding-bottom: 2%;
+padding-right: 6%;
+} 
+
+header h1{
+
+    padding-bottom: 1%;
+    display: flex;
+    justify-content: center
+        
+}
+
+p {
+font-size: 20px; 
+ display: flex;
+padding-left: 1%;
+}
+
+#peron img  {
+padding-top:1%; 
+width: 30%;
+height: 50%;
+margin: auto; 
+}
+
+#peron {display: flex;
+justify-content: space-between;
+margin-top: 2%; 
+}
+
+nav ul {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    font-size: 1.2rem;
+    padding-right: 2rem;
+}
+
+#w {
+    display: flex;
+padding-left: 0.1%;
+margin-top: 2%;
+}
+
